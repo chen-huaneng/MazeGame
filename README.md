@@ -1,2 +1,2 @@
 # Maze_Game
-A maze game realize by C
+A maze game realize by C.
